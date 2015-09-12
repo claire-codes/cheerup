@@ -33,7 +33,7 @@ Also accepts an optional name arg if you want to be more personal.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/claireparker/cheer_up, although I probably don't know how to fix it.
+Bug reports and pull requests are welcome on GitHub at https://github.com/claireparker/cheerup, although I probably don't know how to fix it.
 
 _Wittier ways to cheer someone up are particularly welcome._
 

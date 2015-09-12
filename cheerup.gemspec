@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["claire.parker87@gmail.com"]
 
   spec.summary       = %q{ Mac's terminal says something to cheer you up. }
-  spec.description   = %q{ Mac's say command says something cheery to you, although your Mac isn't as sympathetic as you think. }
-  spec.homepage      = 'https://github.com/claireparker/cheer_up'
+  spec.description   = %q{ Let your Mac terminal say something to cheer you up - although your Mac isn't as sympathetic as you think. }
+  spec.homepage      = 'https://github.com/claireparker/cheerup'
   spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
